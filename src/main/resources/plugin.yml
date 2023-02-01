@@ -1,0 +1,25 @@
+name: ExtraSpigotUtilities
+version: '${version}'
+main: io.github.guy7cc.extraspigotutilities.ExtraSpigotUtilities
+api-version: 1.19
+authors: [ guy7cc ]
+description: This is a spigot plugin used in my own server.
+website: https://github.com/guy7cc
+
+commands:
+  sit:
+    description: Sit here.
+    permission: exutil.command.sit
+    permission-message: You do not have permission to perform this command.
+  hat:
+    description: Put the item you have in the main hand on the head.
+    permission: exutil.command.hat
+    permission-message: You do not have permission to perform this command.
+permissions:
+  exutil.command.sit:
+    description: Permission to perform sit command.
+    default: true
+  exutil.command.hat:
+    description: Permission to perform hat command.
+    default: true
+
