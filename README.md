@@ -1,5 +1,5 @@
 # ExtraSpigotUtilities
-私の生活鯖で運用しているSpigotプラグインです。ご自由にご使用ください。
+私の生活鯖で運用しているSpigot1.19.3プラグインです。ご自由にご使用ください。
 ダウンロードは[こちら](https://github.com/guy7cc/ExtraSpigotUtilities/releases/tag/v1.0-SNAPSHOT)
 
 ## 使用方法
